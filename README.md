@@ -8,19 +8,28 @@ Welcome to my portfolio projects repository! Here you will find a collection of 
 **Description:** In this project, I performed exploratory data analysis (EDA) on a dataset of Netflix movies from the 1990s. The goal was to understand the distribution of movie durations and identify short action movies.
 
 **Key Steps:**
-1. **Data Exploration:** Familiarized myself with the dataset by checking data types and identifying missing values (none found).
-2. **Data Cleaning:** Ensured the dataset was free of inconsistencies and duplicates.
-3. **Analysis:** Utilized Pandas for data manipulation and analysis.
-4. **Visualization:** Planned to use Matplotlib for visualizing the distribution of movie durations, but encountered technical issues.
+1. **Data Exploration:**
+   - Familiarized myself with the dataset by checking data types and identifying missing values (none found).
+   - Obtained an overview of the dataset, including basic statistics and structure.
+   
+2. **Data Cleaning:**
+   - Ensured the dataset was free of inconsistencies and duplicates.
+   - Standardized the format of movie durations and genres for consistency.
+   
+3. **Analysis:**
+   - Utilized Pandas for data manipulation and analysis.
+   - Calculated the distribution of movie durations and identified patterns.
+   - Filtered and categorized movies based on duration and genre.
 
 **Results:**
 - **Most Frequent Movie Duration (1990s):** The most frequent duration was calculated to be approximately 94 minutes.
-- **Count of Short Action Movies (Less than 90 minutes):** There are 7 short action movies from the 1990s.
+- **Count of Short Action Movies (Less than 90 minutes):** Identified and counted 7 short action movies from the 1990s.
 
 **Learning Outcomes:**
 - Gained experience in data cleaning and exploratory data analysis.
-- Encountered and resolved challenges with data visualization using Matplotlib.
-- Developed skills in Python data analysis and applied best coding practices.
+- Developed skills in using Pandas for data manipulation and analysis.
+- Applied best coding practices in Python for data analysis.
+
 
 
 ### 2. Exploring NYC Public School Test Result Scores
