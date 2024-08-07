@@ -22,6 +22,36 @@ Welcome to my portfolio projects repository! Here you will find a collection of 
 - Encountered and resolved challenges with data visualization using Matplotlib.
 - Developed skills in Python data analysis and applied best coding practices.
 
+
+### 2. Exploring NYC Public School Test Result Scores
+**Description:** This project explores test result scores of NYC public schools, identifying schools with the best math results, top-performing schools based on combined SAT scores, and the borough with the largest standard deviation in combined SAT scores.
+
+**Key Steps:**
+1. **Identifying Schools with Best Math Results:** 
+   - Filtered schools with an average math score of at least 80% of the maximum possible score (800).
+   - Saved results in a DataFrame called `best_math_schools`, including "school_name" and "average_math" columns.
+   
+2. **Determining Top 10 Performing Schools Based on Combined SAT Scores:** 
+   - Calculated the total SAT score by summing the individual SAT section scores.
+   - Sorted the schools by the combined SAT scores.
+   - Saved results in a DataFrame called `top_10_schools`, including "school_name" and a new column "total_SAT".
+   
+3. **Finding the Borough with the Largest Standard Deviation in Combined SAT Scores:** 
+   - Calculated the standard deviation of the combined SAT scores for each borough.
+   - Identified the borough with the largest standard deviation.
+   - Saved results in a DataFrame called `largest_std_dev`, including "borough", "num_schools", "average_SAT", and "std_SAT".
+
+**Results:**
+- **Best Math Results:** Identified schools with an average math score of at least 640 (80% of 800). Results saved in `best_math_schools` DataFrame.
+- **Top 10 Performing Schools:** Listed top 10 schools based on combined SAT scores. Results saved in `top_10_schools` DataFrame.
+- **Largest Standard Deviation in Combined SAT Scores:** Determined the borough with the largest standard deviation of combined SAT scores. Results saved in `largest_std_dev` DataFrame.
+
+**Learning Outcomes:**
+- Enhanced skills in data manipulation and analysis using Pandas, including filtering, sorting, and grouping data.
+- Gained insights into visualizing and interpreting real-world educational data to identify trends and patterns.
+
+
+
 # Project Upload Format
 ### 2. [New Project Title]
 **Description:** Brief overview of the new project.
