@@ -59,6 +59,37 @@ Welcome to my portfolio projects repository! Here you will find a collection of 
 - Enhanced skills in data manipulation and analysis using Pandas, including filtering, sorting, and grouping data.
 - Gained insights into visualizing and interpreting real-world educational data to identify trends and patterns.
 
+### 3. Analyzing TV Data: Super Bowl Insights
+
+## Description
+This project dives into the interaction between various elements of the Super Bowl, such as game outcomes, TV viewership, ad costs, and halftime show performances. The goal was to uncover trends, relationships, and historical insights using data from 52 Super Bowls up to 2018.
+
+## Key Steps
+
+1. **Game Outcomes & Viewership:**
+   - Investigated the relationship between game intensity (close games vs. blowouts) and TV viewership patterns.
+   - Analyzed how the margin of victory affects viewer engagement.
+
+2. **Trends in TV Ratings & Ad Costs:**
+   - Examined trends in TV ratings, viewership, and ad costs over time.
+   - Identified periods of significant changes and their potential causes.
+
+3. **Halftime Show Performances:**
+   - Explored the history and impact of halftime shows.
+   - Identified the most prolific musicians and how their performances influenced viewership trends.
+
+## Results
+
+1. **Game Outcomes & Viewership:** Close games were associated with higher viewership, indicating that competitive games are more engaging for audiences.
+2. **TV Ratings & Ad Costs:** Both TV ratings and ad costs have generally increased over time, reflecting the growing commercial importance of the Super Bowl.
+3. **Halftime Shows:** Halftime shows featuring high-profile musicians often lead to spikes in viewership, highlighting the entertainment value they add to the event.
+
+## Learning Outcomes
+
+1. **Data Manipulation:** Enhanced skills in using Pandas for filtering, sorting, and analyzing complex datasets.
+2. **Data Visualization:** Developed a deeper understanding of visualizing data trends and patterns using Matplotlib and Seaborn.
+3. **Insight Interpretation:** Improved ability to interpret data-driven insights and relate them to real-world events.
+
 
 
 # Project Upload Format
